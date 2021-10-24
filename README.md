@@ -12,3 +12,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ### Linguagens
 #### Algoritmos (11% completo)
 &ensp;&ensp;&ensp;&ensp;_Curso base para o melhor aprendizado de linguagens de programação como C, JavaScript, PHP, entre outras._
+
+### Linux
+#### Linux (14% completo)
+&ensp;&ensp;&ensp;&ensp;_Curso sobre a distribuição Mint do Linux, explorando os conceitos fundamentais, a instalação do sistema, instalação de novos programas e comandos diversos no terminal._
